@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vouchsafe", "Vouchsafe.csproj", "{BAA2188D-B87A-4DC5-8EBC-19ED6664DF2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA2188D-B87A-4DC5-8EBC-19ED6664DF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA2188D-B87A-4DC5-8EBC-19ED6664DF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA2188D-B87A-4DC5-8EBC-19ED6664DF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA2188D-B87A-4DC5-8EBC-19ED6664DF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4288561C-E734-4FB4-A743-E31C7930C7FD}
+	EndGlobalSection
+EndGlobal
